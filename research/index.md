@@ -1,1 +1,4 @@
+---
+title: emilbargmann::Research
+---
 # Research
