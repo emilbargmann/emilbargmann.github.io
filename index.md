@@ -1,6 +1,1 @@
----
-layout: default
-title: Emil Bargmann Madsen
----
-
-# Title
+# Emil Bargmann Madsen
