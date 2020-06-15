@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
 title: Emil Bargmann Madsen
+
+avatar: "Emil2.jpg"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
